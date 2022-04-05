@@ -6,7 +6,7 @@ It is a landing page for a bike shop.
 
 ## Preview https://vivianemartini.github.io/bikeshop.github.io/
 
-# Technologies used
+Technologies used
 
 - HTML
 - CSS

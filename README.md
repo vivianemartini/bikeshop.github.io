@@ -2,14 +2,21 @@
 
 This project was made to practice and review html and css components. 
 
-It is a landing page for a bike shop. 
+Landing page for a bike shop. 
 
-## Preview https://vivianemartini.github.io/bikeshop.github.io/
+## Live
+https://vivianemartini.github.io/bikeshop.github.io/
 
-Technologies used
+## Technologies used
 
 - HTML
 - CSS
 
-
+## Preview
 ![](img/bikeshop.PNG)
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+- Thanks [Origamid](https://www.origamid.com/?utm_medium=adwords&utm_campaign=&utm_source=&gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdybC5ryPG5qnMV2oBfNR8ipKY8gKJNnfn5PSkIXJst-CMgmbu1ozBosaAhiIEALw_wcB)
